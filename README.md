@@ -10,11 +10,9 @@
 
     LAB 02:
         Task 01: Implementing the Grade School Multiplication algorithm and calculating the running time of the program.
-        Task 02: Implementing Karatsuba Multiplication
-        algorithm and calculating the running time of the program.
+        Task 02: Implementing Karatsuba Multiplication algorithm and calculating the running time of the program.
         Task 03: Implementing Insertion Sort algorithm.
-        Task 04: Comparing the running times of the Grade
-        School Multiplication and Karatsuba Multiplication algorithms.
+        Task 04: Comparing the running times of the Grade School Multiplication and Karatsuba Multiplication algorithms.
         Task 05: Multiplying two Large Integers (0 ≤ X, Y < 10^250).
 
 
