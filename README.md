@@ -19,3 +19,11 @@
     LAB 03:
         Task 01: Finding the Leaders in an array.
         Task 02: Finding the Maximum Subarray Sum.
+
+    
+    LAB 04:
+        Task 01: Implementing Merge Sort Algorithm.
+        Task 02: Implementing Merge Sort and Counting Inversions.
+        Task 03: Implementing Linear Search Algorithm.
+        Task 04: Balancing Heights (Seating Arrangement) using Merge Sort.
+        Task 05: Efficiently sorting a Linked List with Merge Sort.
