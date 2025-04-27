@@ -27,3 +27,7 @@
         Task 03: Implementing Linear Search Algorithm.
         Task 04: Balancing Heights (Seating Arrangement) using Merge Sort.
         Task 05: Efficiently sorting a Linked List with Merge Sort.
+
+
+    LAB 05:
+        Task: Implementing the Binary Search Algorithm.
