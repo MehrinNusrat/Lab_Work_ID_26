@@ -30,4 +30,5 @@
 
 
     LAB 05:
-        Task: Implementing the Binary Search Algorithm.
+        Task 01: Implementing the Binary Search Algorithm.
+        Task 02: Implementing Merge Sort for Counting Array Inversion.
