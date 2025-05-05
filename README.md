@@ -32,3 +32,9 @@
     LAB 05:
         Task 01: Implementing the Binary Search Algorithm.
         Task 02: Implementing Merge Sort for Counting Array Inversion.
+
+
+    LAB 06:
+        Task 01: Implementing Matrix Multiplication using the naive approach.
+        Task 02: Implementing Matrix Multiplication using Divide-and-Conquer approach.
+        Task 03: Implementing Matrix Multiplication using Strassen's Matrix Multiplication algorithm.
