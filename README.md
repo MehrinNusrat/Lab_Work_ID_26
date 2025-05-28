@@ -38,3 +38,16 @@
         Task 01: Implementing Matrix Multiplication using the naive approach.
         Task 02: Implementing Matrix Multiplication using Divide-and-Conquer approach.
         Task 03: Implementing Matrix Multiplication using Strassen's Matrix Multiplication algorithm.
+
+
+    LAB 07:
+        Task 01: Implementing Convex Hull using the Brute Force Algorithm. 
+        Task 02: Implementing Convex Hull using the Graham’s Scan Algorithm. 
+        Task 03: Implementing Convex Hull using the QuickHull Algorithm.
+
+
+    LAB 08:
+        Task 01: Implementing Prim’s Algorithm.
+        Task 02: Implementing Kruskal's Algorithm.
+        Task 03: Implementing Dijkstra's Algorithm.
+        Task 04: Implementing Bellman-Ford’s Algorithm.
