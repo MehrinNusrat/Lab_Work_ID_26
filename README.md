@@ -51,3 +51,9 @@
         Task 02: Implementing Kruskal's Algorithm.
         Task 03: Implementing Dijkstra's Algorithm.
         Task 04: Implementing Bellman-Ford’s Algorithm.
+
+
+    LAB 09:
+        Task 01: Implementing Huffman Coding Algorithm.
+        Task 02: Finding max and min value of an array using divide and conqure approach.
+        Task 03: Implementing Counting Sort Algorithm.     
