@@ -56,4 +56,9 @@
     LAB 09:
         Task 01: Implementing Huffman Coding Algorithm.
         Task 02: Finding max and min value of an array using divide and conqure approach.
-        Task 03: Implementing Counting Sort Algorithm.     
+        Task 03: Implementing Counting Sort Algorithm.   
+
+
+    LAB 10:
+        Task 01: Implementing Radix Sort Algorithm.
+        Task 02: Print Fibonacci Series using Memorization.  
