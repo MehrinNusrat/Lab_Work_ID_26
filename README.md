@@ -32,6 +32,8 @@
     LAB 05:
         Task 01: Implementing the Binary Search Algorithm.
         Task 02: Implementing Merge Sort for Counting Array Inversion.
+        Task 03: Constructing a permutation for controlled MergeSort calls.
+        Task 04: Implementing Binary Search on Unsorted Permutations.
 
 
     LAB 06:
